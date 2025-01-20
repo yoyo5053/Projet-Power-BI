@@ -1,0 +1,54 @@
+host_id,host_name,city,superhost,signup_date
+1,Tiffany Matthews,PARIS,Yes,2021-10-26
+2,Angela Hogan,Tokyo,Yes,2021-09-06
+3,Tracey Smith,london,No,2022-06-05
+4,Christopher Lee,Paris,Yes,2024-04-10
+5,Kimberly Smith,paris,No,2024-11-19
+6,James Fuentes,london,No,2022-09-29
+7,,berlin,No,2024-02-12
+8,Jose Booth,TOKYO,No,2023-05-23
+9,Brian Woods,BERLIN,No,2024-12-26
+10,Marisa Rubio,london,No,2020-03-06
+11,Kelsey Crawford,tokyo,No,2020-11-06
+12,Zachary Barber,london,No,2024-11-27
+13,Jessica Jones,Berlin,No,2022-07-18
+14,Shane Smith,LONDON,No,2021-12-20
+15,Mrs. Jaclyn Little MD,tokyo,Yes,2022-06-08
+16,Katelyn Mendez,new york,Yes,2022-12-08
+17,William Mason,New York,No,2023-10-31
+18,Richard Anderson,NEW YORK,Yes,2021-07-12
+19,Lauren Robinson,london,Yes,2023-11-21
+20,Rhonda Hughes,LONDON,No,2021-11-24
+21,Emily Hughes,london,Yes,2022-01-26
+22,,Paris,No,2023-06-09
+23,Dominique Mercer,Tokyo,No,2024-11-28
+24,Jenny Underwood,BERLIN,No,2025-01-01
+25,,Tokyo,Yes,2020-06-09
+26,Brian Rodgers,LONDON,No,2022-10-15
+27,Amanda Webb,tokyo,Yes,2023-10-13
+28,William Escobar,Berlin,No,2022-12-08
+29,Debra Wells,tokyo,Yes,2021-08-17
+30,Jeffrey Parsons,new york,No,2023-09-08
+31,Mr. Anthony Sanchez Jr.,Tokyo,No,2020-08-27
+32,Regina Martinez,Berlin,Yes,2022-09-09
+33,Micheal Ford,Tokyo,Yes,2024-09-22
+34,Christopher Johnson,new york,No,2023-05-07
+35,Tara Johnson,TOKYO,Yes,2023-03-31
+36,,TOKYO,No,2023-12-19
+37,Thomas Bennett,tokyo,Yes,2024-03-18
+38,Lauren Lutz,tokyo,Yes,2024-04-08
+39,Tiffany Ryan,berlin,Yes,2021-05-01
+40,Evan Galvan,Tokyo,Yes,2023-06-18
+41,Tracey Brown,PARIS,No,2022-11-05
+42,Keith Torres,LONDON,No,2020-12-28
+43,Michael French,LONDON,Yes,2021-02-25
+44,,NEW YORK,No,2020-10-19
+45,Victoria Williams,NEW YORK,Yes,2022-05-27
+46,Angela Hill,TOKYO,No,2021-02-26
+47,Douglas Clark,new york,No,2022-05-11
+48,Mark Elliott,new york,No,2020-02-04
+49,Jon Ramirez,New York,Yes,2024-02-23
+50,Bonnie Underwood,tokyo,Yes,2021-02-04
+38,Lauren Lutz,tokyo,Yes,2024-04-08
+22,,PARIS,No,2023-06-09
+20,Rhonda Hughes,London,No,2021-11-24
